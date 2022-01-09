@@ -45,6 +45,7 @@
     width: 600px;
     height: 250px;
     padding-top: 25px;
+    max-width: 100%;
     font-style: italic;
     font-size: 18px;
     display: flex;
