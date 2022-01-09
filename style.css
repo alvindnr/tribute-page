@@ -25,7 +25,7 @@
 #image {
     border-radius: 10px;
     width: 100%;
-    max-width: auto;
+    max-width: 100%;
 }
 #tribute-info {
     display: flex;
